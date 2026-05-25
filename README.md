@@ -6,7 +6,7 @@ A full-stack web application that generates personalized, high-adherence meal pl
 
 ## 🌐 Live Demo
 
-Backend API (Railway): `https://weightlossapp-production.up.railway.app`
+Backend API (Railway): `https://weightloss-app-frontend.onrender.com`
 
 ---
 
